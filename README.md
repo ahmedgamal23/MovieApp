@@ -1,16 +1,11 @@
-# movies_app
+![1](https://github.com/ahmedgamal23/MovieApp/assets/99516536/12541a5f-7a23-418f-9505-2df5f9094841)# movies_app
 
-A new Flutter project.
+https://github.com/ahmedgamal23/MovieApp/assets/99516536/e4f76520-f340-4f21-8b57-494b471bb1d3
 
-## Getting Started
+<img src="https://github.com/ahmedgamal23/MovieApp/assets/99516536/2fffdb8c-b58c-44e8-8f11-ef5fbdbb73f4" width="400" height="500" />
+<img src="https://github.com/ahmedgamal23/MovieApp/assets/99516536/ae3bb0d8-ba6b-435b-8e9c-60d864200469" width="400" height="500" />
+<img src="https://github.com/ahmedgamal23/MovieApp/assets/99516536/4188a806-a969-4c87-91c8-6bc794bef954" width="400" height="500" />
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/ahmedgamal23/MovieApp/assets/99516536/c5cbe59e-ba0a-4375-a76a-1cd8c3668673" width="400" height="500" />
+<img src="https://github.com/ahmedgamal23/MovieApp/assets/99516536/0771b978-85a7-4664-907e-90541cf60481" width="400" height="500" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
